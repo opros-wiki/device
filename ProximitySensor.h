@@ -39,8 +39,8 @@ This license policy may be changed without prior notice.
 class ProximitySensor : public OprosDevice
 {
 public:
-	ProximitSensor(void)			{	}
-	virtual ~ProximitSensor(void)	{	}
+	ProximitySensor(void)			{	}
+	virtual ~ProximitySensor(void)	{	}
 
 public:
 	 virtual int32_t GetSensorValue(std::vector<OPRoS::Float64Array> *sensorValue)	{ return API_NOT_SUPPORTED; }
