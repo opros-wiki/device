@@ -30,8 +30,8 @@ This license policy may be changed without prior notice.
 
 ***************************************************************/
 
-#ifndef  _PROXIMIT_SENSOR_H_
-#define	_PROXIMIT_SENSOR_H_
+#ifndef  _PROXIMITY_SENSOR_H_
+#define	_PROXIMITY_SENSOR_H_
 
 #include "OprosDevice.h"
 #include "ApiTypes.h"
